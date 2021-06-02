@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\roger\\source\\repos\\PracticeServer\\Infrastructure.SQLERepository\\Infrastructure.SQLERepository.csproj": {}
+    "C:\\Users\\pc\\source\\repos\\PracticeServer\\Infrastructure.SQLERepository\\Infrastructure.SQLERepository.csproj": {}
   },
   "projects": {
-    "C:\\Users\\roger\\source\\repos\\PracticeServer\\Domain.Entities\\Domain.Entities.csproj": {
+    "C:\\Users\\pc\\source\\repos\\PracticeServer\\Domain.Entities\\Domain.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\roger\\source\\repos\\PracticeServer\\Domain.Entities\\Domain.Entities.csproj",
+        "projectUniqueName": "C:\\Users\\pc\\source\\repos\\PracticeServer\\Domain.Entities\\Domain.Entities.csproj",
         "projectName": "Domain.Entities",
-        "projectPath": "C:\\Users\\roger\\source\\repos\\PracticeServer\\Domain.Entities\\Domain.Entities.csproj",
-        "packagesPath": "C:\\Users\\roger\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\roger\\source\\repos\\PracticeServer\\Domain.Entities\\obj\\",
+        "projectPath": "C:\\Users\\pc\\source\\repos\\PracticeServer\\Domain.Entities\\Domain.Entities.csproj",
+        "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\pc\\source\\repos\\PracticeServer\\Domain.Entities\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\roger\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -29,6 +26,7 @@
         },
         "frameworks": {
           "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
             "projectReferences": {}
           }
         },
@@ -40,8 +38,9 @@
       },
       "frameworks": {
         "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
           "dependencies": {
-            "microsoft.entityFrameworkcore": {
+            "microsoft.entityframeworkcore.sqlserver": {
               "target": "Package",
               "version": "[5.0.6, )"
             }
@@ -61,24 +60,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\roger\\source\\repos\\PracticeServer\\Infrastructure.SQLERepository\\Infrastructure.SQLERepository.csproj": {
+    "C:\\Users\\pc\\source\\repos\\PracticeServer\\Infrastructure.SQLERepository\\Infrastructure.SQLERepository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\roger\\source\\repos\\PracticeServer\\Infrastructure.SQLERepository\\Infrastructure.SQLERepository.csproj",
+        "projectUniqueName": "C:\\Users\\pc\\source\\repos\\PracticeServer\\Infrastructure.SQLERepository\\Infrastructure.SQLERepository.csproj",
         "projectName": "Infrastructure.SQLERepository",
-        "projectPath": "C:\\Users\\roger\\source\\repos\\PracticeServer\\Infrastructure.SQLERepository\\Infrastructure.SQLERepository.csproj",
-        "packagesPath": "C:\\Users\\roger\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\roger\\source\\repos\\PracticeServer\\Infrastructure.SQLERepository\\obj\\",
+        "projectPath": "C:\\Users\\pc\\source\\repos\\PracticeServer\\Infrastructure.SQLERepository\\Infrastructure.SQLERepository.csproj",
+        "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\pc\\source\\repos\\PracticeServer\\Infrastructure.SQLERepository\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\roger\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -90,9 +86,10 @@
         },
         "frameworks": {
           "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
             "projectReferences": {
-              "C:\\Users\\roger\\source\\repos\\PracticeServer\\Domain.Entities\\Domain.Entities.csproj": {
-                "projectPath": "C:\\Users\\roger\\source\\repos\\PracticeServer\\Domain.Entities\\Domain.Entities.csproj"
+              "C:\\Users\\pc\\source\\repos\\PracticeServer\\Domain.Entities\\Domain.Entities.csproj": {
+                "projectPath": "C:\\Users\\pc\\source\\repos\\PracticeServer\\Domain.Entities\\Domain.Entities.csproj"
               }
             }
           }
@@ -105,6 +102,7 @@
       },
       "frameworks": {
         "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
           "dependencies": {
             "Microsoft.Extensions.Configuration.Json": {
               "target": "Package",
@@ -118,11 +116,11 @@
               "target": "Package",
               "version": "[5.0.0, )"
             },
-            "microsoft.entityFrameworkcore": {
+            "microsoft.entityframeworkcore": {
               "target": "Package",
               "version": "[5.0.6, )"
             },
-            "microsoft.entityFrameworkcore.sqlserver": {
+            "microsoft.entityframeworkcore.sqlserver": {
               "target": "Package",
               "version": "[5.0.6, )"
             }
@@ -142,7 +140,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }

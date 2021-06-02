@@ -1,0 +1,14 @@
+C:\Users\pc\source\repos\PracticeServer\Infrastructure.DataMapping\obj\Debug\netcoreapp3.1\Infrastructure.DataMapping.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\PracticeServer\Infrastructure.DataMapping\obj\Debug\netcoreapp3.1\Infrastructure.DataMapping.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\PracticeServer\Infrastructure.DataMapping\obj\Debug\netcoreapp3.1\Infrastructure.DataMapping.AssemblyInfo.cs
+C:\Users\pc\source\repos\PracticeServer\Infrastructure.DataMapping\obj\Debug\netcoreapp3.1\Infrastructure.DataMapping.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\PracticeServer\Infrastructure.DataMapping\bin\Debug\netcoreapp3.1\Infrastructure.DataMapping.deps.json
+C:\Users\pc\source\repos\PracticeServer\Infrastructure.DataMapping\bin\Debug\netcoreapp3.1\Infrastructure.DataMapping.dll
+C:\Users\pc\source\repos\PracticeServer\Infrastructure.DataMapping\bin\Debug\netcoreapp3.1\Infrastructure.DataMapping.pdb
+C:\Users\pc\source\repos\PracticeServer\Infrastructure.DataMapping\bin\Debug\netcoreapp3.1\Domain.Entities.dll
+C:\Users\pc\source\repos\PracticeServer\Infrastructure.DataMapping\bin\Debug\netcoreapp3.1\Services.Interfaces.dll
+C:\Users\pc\source\repos\PracticeServer\Infrastructure.DataMapping\bin\Debug\netcoreapp3.1\Domain.Entities.pdb
+C:\Users\pc\source\repos\PracticeServer\Infrastructure.DataMapping\bin\Debug\netcoreapp3.1\Services.Interfaces.pdb
+C:\Users\pc\source\repos\PracticeServer\Infrastructure.DataMapping\obj\Debug\netcoreapp3.1\Infrastructure.DataMapping.csproj.CopyComplete
+C:\Users\pc\source\repos\PracticeServer\Infrastructure.DataMapping\obj\Debug\netcoreapp3.1\Infrastructure.DataMapping.dll
+C:\Users\pc\source\repos\PracticeServer\Infrastructure.DataMapping\obj\Debug\netcoreapp3.1\Infrastructure.DataMapping.pdb

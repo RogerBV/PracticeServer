@@ -1,0 +1,9 @@
+C:\Users\pc\source\repos\PracticeServer\Services.Interfaces\bin\Debug\netstandard2.0\Services.Interfaces.deps.json
+C:\Users\pc\source\repos\PracticeServer\Services.Interfaces\bin\Debug\netstandard2.0\Services.Interfaces.dll
+C:\Users\pc\source\repos\PracticeServer\Services.Interfaces\bin\Debug\netstandard2.0\Services.Interfaces.pdb
+C:\Users\pc\source\repos\PracticeServer\Services.Interfaces\obj\Debug\netstandard2.0\Services.Interfaces.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\PracticeServer\Services.Interfaces\obj\Debug\netstandard2.0\Services.Interfaces.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\PracticeServer\Services.Interfaces\obj\Debug\netstandard2.0\Services.Interfaces.AssemblyInfo.cs
+C:\Users\pc\source\repos\PracticeServer\Services.Interfaces\obj\Debug\netstandard2.0\Services.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\PracticeServer\Services.Interfaces\obj\Debug\netstandard2.0\Services.Interfaces.dll
+C:\Users\pc\source\repos\PracticeServer\Services.Interfaces\obj\Debug\netstandard2.0\Services.Interfaces.pdb
