@@ -1,0 +1,5 @@
+C:\Users\roger\source\repos\PracticeServer\Domain.Entities\bin\Debug\netstandard2.1\Domain.Entities.deps.json
+C:\Users\roger\source\repos\PracticeServer\Domain.Entities\bin\Debug\netstandard2.1\Domain.Entities.dll
+C:\Users\roger\source\repos\PracticeServer\Domain.Entities\obj\Debug\netstandard2.1\Domain.Entities.csprojAssemblyReference.cache
+C:\Users\roger\source\repos\PracticeServer\Domain.Entities\obj\Debug\netstandard2.1\Domain.Entities.AssemblyInfoInputs.cache
+C:\Users\roger\source\repos\PracticeServer\Domain.Entities\obj\Debug\netstandard2.1\Domain.Entities.AssemblyInfo.cs

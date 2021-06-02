@@ -1,0 +1,24 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.1/",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.1": {},
+    ".NETStandard,Version=v2.1/": {
+      "Infrastructure.SQLERepository/1.0.0": {
+        "runtime": {
+          "Infrastructure.SQLERepository.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Infrastructure.SQLERepository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

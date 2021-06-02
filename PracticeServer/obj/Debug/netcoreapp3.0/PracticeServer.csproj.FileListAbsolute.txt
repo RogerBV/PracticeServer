@@ -1,0 +1,10 @@
+C:\Users\roger\source\repos\PracticeServer\PracticeServer\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\roger\source\repos\PracticeServer\PracticeServer\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\roger\source\repos\PracticeServer\PracticeServer\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\roger\source\repos\PracticeServer\PracticeServer\bin\Debug\netcoreapp3.0\PracticeServer.exe
+C:\Users\roger\source\repos\PracticeServer\PracticeServer\obj\Debug\netcoreapp3.0\PracticeServer.csprojAssemblyReference.cache
+C:\Users\roger\source\repos\PracticeServer\PracticeServer\obj\Debug\netcoreapp3.0\staticwebassets\PracticeServer.StaticWebAssets.Manifest.cache
+C:\Users\roger\source\repos\PracticeServer\PracticeServer\obj\Debug\netcoreapp3.0\staticwebassets\PracticeServer.StaticWebAssets.xml
+C:\Users\roger\source\repos\PracticeServer\PracticeServer\obj\Debug\netcoreapp3.0\PracticeServer.AssemblyInfoInputs.cache
+C:\Users\roger\source\repos\PracticeServer\PracticeServer\obj\Debug\netcoreapp3.0\PracticeServer.AssemblyInfo.cs
+C:\Users\roger\source\repos\PracticeServer\PracticeServer\obj\Debug\netcoreapp3.0\PracticeServer.RazorTargetAssemblyInfo.cache

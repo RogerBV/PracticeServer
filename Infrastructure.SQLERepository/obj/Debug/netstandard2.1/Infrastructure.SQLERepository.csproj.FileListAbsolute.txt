@@ -1,0 +1,6 @@
+C:\Users\roger\source\repos\PracticeServer\Infrastructure.SQLERepository\bin\Debug\netstandard2.1\Infrastructure.SQLERepository.deps.json
+C:\Users\roger\source\repos\PracticeServer\Infrastructure.SQLERepository\bin\Debug\netstandard2.1\Infrastructure.SQLERepository.dll
+C:\Users\roger\source\repos\PracticeServer\Infrastructure.SQLERepository\obj\Debug\netstandard2.1\Infrastructure.SQLERepository.AssemblyInfoInputs.cache
+C:\Users\roger\source\repos\PracticeServer\Infrastructure.SQLERepository\obj\Debug\netstandard2.1\Infrastructure.SQLERepository.AssemblyInfo.cs
+C:\Users\roger\source\repos\PracticeServer\Infrastructure.SQLERepository\bin\Debug\netstandard2.1\Domain.Entities.dll
+C:\Users\roger\source\repos\PracticeServer\Infrastructure.SQLERepository\obj\Debug\netstandard2.1\Infrastructure.SQLERepository.csprojAssemblyReference.cache
