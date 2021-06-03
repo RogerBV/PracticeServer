@@ -23,9 +23,15 @@ namespace Services.Implementation.SQL
             }
         }
 
-        public RegisteredPermit Delete(DeletedPermit Id)
+        public RegisteredPermit Delete(DeletedPermit delete)
         {
-            throw new NotImplementedException();
+            using (PermitDataContext permitDataContext = new PermitDataContext())
+            {
+                var objPermit = permitDataContext.Permits.Where(x => x.Id == delete.Id).ToList().First();
+                permitDataContext.Permits.Remove(objPermit);
+                permitDataContext.SaveChanges();
+                return objPermit.ToDTO();
+            }
         }
 
         public List<RegisteredPermit> List()

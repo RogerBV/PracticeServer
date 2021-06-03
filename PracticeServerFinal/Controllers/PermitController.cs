@@ -42,6 +42,10 @@ namespace PracticeServerFinal.Controllers
         {
             return Json(this._permitService.Create(createPermit));
         }
-
+        [HttpPost]
+        public IActionResult Delete(DeletedPermit deletePermit)
+        {
+            return Json(this._permitService.Delete(deletePermit));
+        }
     }
 }
