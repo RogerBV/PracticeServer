@@ -9,5 +9,6 @@ namespace Services.Interfaces.Declarations
     public interface IPermitTypeService:
         ICRUDService<CreatePermitType,UpdatePermitType,RegisteredPermitType,DeletedPermitType>
     {
+        
     }
 }

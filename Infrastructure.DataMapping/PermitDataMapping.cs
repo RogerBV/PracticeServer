@@ -21,6 +21,19 @@ namespace Infrastructure.DataMapping
                 PermitTypeId = newRegistry.PermitTypeId
             };
         }
+
+        public static Permit ToEntity(this UpdatePermit updatePermit)
+        {
+            return new Permit()
+            {
+                Id = updatePermit.Id
+                ,EmployeeName = updatePermit.EmployeeName
+                ,EmployeeSurname = updatePermit.EmployeeSurname
+                ,PermitDate = updatePermit.PermitDate
+                ,PermitTypeId = updatePermit.PermitTypeId
+            };
+        }
+        
         public static RegisteredPermit ToDTO(this Permit permitOnDb)
         {
             return new RegisteredPermit()

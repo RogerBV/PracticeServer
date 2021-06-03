@@ -9,5 +9,6 @@ namespace Services.Interfaces.Declarations
     public interface IPermitService:
         ICRUDService<CreatePermit,UpdatePermit,RegisteredPermit,DeletedPermit>
     {
+        RegisteredPermit FindPermitById(int PermitId);
     }
 }

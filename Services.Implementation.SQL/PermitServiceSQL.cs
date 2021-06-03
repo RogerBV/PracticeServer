@@ -34,6 +34,14 @@ namespace Services.Implementation.SQL
             }
         }
 
+        public RegisteredPermit FindPermitById(int PermitId)
+        {
+            using (PermitDataContext permitDataContext = new PermitDataContext())
+            {
+                return permitDataContext.Permits.Where(x => x.Id == PermitId).ToList().Select(x => x.ToDTO()).ToList().First();
+            }
+        }
+
         public List<RegisteredPermit> List()
         {
             using (PermitDataContext permitDataContext = new PermitDataContext())
@@ -44,7 +52,17 @@ namespace Services.Implementation.SQL
 
         public RegisteredPermit Update(UpdatePermit updateRegistry)
         {
-            throw new NotImplementedException();
+            using (PermitDataContext permitDataContext = new PermitDataContext())
+            {
+                var permit = updateRegistry.ToEntity();
+                permitDataContext.Permits.Attach(permit);
+                permitDataContext.Entry(permit).Property(x => x.EmployeeName).IsModified = true;
+                permitDataContext.Entry(permit).Property(x => x.EmployeeSurname).IsModified = true;
+                permitDataContext.Entry(permit).Property(x => x.PermitDate).IsModified = true;
+                permitDataContext.Entry(permit).Property(x => x.PermitTypeId).IsModified = true;
+                permitDataContext.SaveChanges();
+                return permit.ToDTO();
+            }
         }
     }
 }

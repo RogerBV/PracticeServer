@@ -42,10 +42,22 @@ namespace PracticeServerFinal.Controllers
         {
             return Json(this._permitService.Create(createPermit));
         }
+        [HttpGet]
+        public IActionResult FindPermitById(int PermitId)
+        {
+            return Json(this._permitService.FindPermitById(PermitId));
+        }
+
         [HttpPost]
         public IActionResult Delete(DeletedPermit deletePermit)
         {
             return Json(this._permitService.Delete(deletePermit));
+        }
+
+        [HttpPost]
+        public IActionResult UpdatePermit(UpdatePermit updatePermit) 
+        {
+            return Json(this._permitService.Update(updatePermit));
         }
     }
 }
